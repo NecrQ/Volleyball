@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="WebDataSource" type="javax.sql.DataSource">#Sun Feb 07 15:48:31 EET 2016
+jdbcDriver=org.apache.derby.jdbc.ClientDriver
+password=web
+userName=web
+jdbcUrl=jdbc\:derby\://localhost\:1527/VolleyballWeb
+</Resource>
+</resources>
